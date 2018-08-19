@@ -39,7 +39,7 @@ cd to the `<REPO_ROOT>/test` folder and run the following command:
 ```
 ./run-tests.sh
 ```
-The built jar can be found under `<REPO_ROOT>/build/lib/palindrome-rest-service-0.1.0.jar` folder
+The built jar can be found under `<REPO_ROOT>/build/libs/palindrome-rest-service-0.1.0.jar` folder
 
 #### Option 2 (Build and unit tests)
 From the root of the repo, run the following command
