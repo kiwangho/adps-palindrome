@@ -96,6 +96,12 @@ You will need to click on the `back` button of your browser to bring back the HT
 
 ## Testing the REST Service on browser URL section
 
+Enter the following in your browser's URL bar.  Remember to update the query param value for `word`.  
+
+```
+http://localhost:8080/palindrome?word=hello
+http://localhost:8080/palindrome?word=racecar
+```
 
 ## Testing with cURL
 
