@@ -1,5 +1,5 @@
 cd $(dirname $0)
-cd ../complete
+cd ../
 mvn clean package
 
 rm -rf target
