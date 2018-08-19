@@ -29,8 +29,8 @@ Although it is possible to package this service as a traditional WAR file for de
 # Building the application
 
 ### Dependencies
-1) Java 1.7 or higher  (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html?ssSourceSiteId=otnpt)
-2) Maven 3.3+ (I used Maven 3.5.4) https://maven.apache.org/download.cgi
+1) [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html?ssSourceSiteId=otnpt) or higher
+2) Maven 3.3+(https://maven.apache.org/download.cgi) or Gradle 4+
 
 ### Build the Application
 
